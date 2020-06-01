@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MarcadoresCategorias</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="registro">Registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="camposVacios">No puede haber ningún campo vacío</string>
+    <string name="usuarioadd">Usuario registrado</string>
+    <string name="usuarioexiste">El usuario introducido existe</string>
+    <string name="login">Login</string>
+    <string name="acceder">Acceder</string>
+    <string name="iniciarsesion">Iniciar sesión</string>
+    <string name="loginIncorrecto">Usuario o contraseña incorrectos</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="addcategoria">Crear categoría</string>
+    <string name="addmarcador">Crear marcador</string>
+    <string name="marcadoradd">Marcador registrado</string>
+    <string name="categoria">Categoría</string>
+    <string name="marcador">Marcador</string>
+    <string name="existecategoria">La categoría existe</string>
+    <string name="categoriaAdd">Categoría añadida</string>
+    <string name="descripcion">Descripción</string>
+    <string name="vermarcadores">Ver marcadores</string>
+    <string name="editarcategoria">Editar categoría</string>
+    <string name="categoriaeditada">Categoria editada</string>
+    <string name="editarmarcador">Editar marcador</string>
+    <string name="marcadoreditado">Marcador editado</string>
+    <string name="cerrarsesion">Cerrar sesión</string>
+</resources>
